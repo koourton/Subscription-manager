@@ -1,7 +1,7 @@
 # Subscription-manager
 Simple full stack implementation of a subscription system
 
-##Initializing the backend
+## Initializing the backend
 ```
 cd backend
 uv venv
@@ -14,7 +14,7 @@ export FLASK_ENV=development
 flask run
 ```
 
-##Initializing the frontend
+## Initializing the frontend
 ```
 cd frontend
 yarn install
